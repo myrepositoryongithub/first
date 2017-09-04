@@ -71,4 +71,4 @@ src/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-# End of https://www.gitignore.io/api/linux,archlinuxpackages
+
